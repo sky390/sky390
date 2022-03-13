@@ -1,12 +1,5 @@
 - 👋 Hi, I’m @sky390
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in OI
+- 🌱 I’m currently learning algorithms
+- 💞️ I’m looking to collaborate on OnlineJudge
 - 📫 How to reach me ...
-
-<!---
-sky390/sky390 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-![sky390's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sky390&show_icons=true)
